@@ -34,22 +34,6 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
 
 </div>
 
----
-
-## 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <a href="https://github.com/StaticSaves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StaticSaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" alt="Estadísticas de StaticSaves" />
-  </a>
-  <a href="https://github.com/StaticSaves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaticSaves&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722" alt="Lenguajes más usados" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaticSaves&theme=radical&hide_border=true&background=0D1117&ring=FF5722&fire=FF5722" alt="Racha de contribuciones" />
-</div>
 
 ---
 
@@ -77,11 +61,8 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
   <a href="mailto:staticsaves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://reddit.com/user/TU_USUARIO">
+  <a href="https://reddit.com/user/StaticSaves">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="https://discord.com/users/TU_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
