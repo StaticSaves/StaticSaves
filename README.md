@@ -64,8 +64,10 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
   </a>
 </div>
 
-> **NEON-PROJEC**: Foro web comunitario.  
-> **PITBULL-INC**: Solución de gestión empresarial.
+<br />
+
+> **NEON-PROJEC**: Foro web comunitario enfocado en la interacción fluida y el diseño retro-moderno.  
+> **PITBULL-INC**: Solución integral para la gestión empresarial y optimización de procesos.
 
 ---
 
@@ -73,13 +75,13 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
 
 <div align="center">
   <a href="mailto:staticsaves@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://reddit.com/user/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://discord.com/users/TU_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
@@ -88,3 +90,5 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
 <div align="center">
   <sub>“Programar es como la carpintería: requiere paciencia, las herramientas correctas y el respeto por el material y el código.”</sub>
 </div>
+
+---
