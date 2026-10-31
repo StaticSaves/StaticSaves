@@ -1,45 +1,90 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIyMWd0aTE4ZzZ3MGU0cWNhZmJ1aGd2bWdjMGVmbmU5OW1oejBpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wmakxh8AeXLxQI2VJb/giphy.gif" width="130"/> Bienvenid@ al Github de | Alexander | StaticSaves |  
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIyMWd0aTE4ZzZ3MGU0cWNhZmJ1aGd2bWdjMGVmbmU5OW1oejBpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wmakxh8AeXLxQI2VJb/giphy.gif" width="130"/>
+  
+  <h1>Alexander | StaticSaves</h1>
+  <p><em>"Construyendo el futuro con la precisión de un artesano y la estética del Pixel Art."</em></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Ubicación-Venezuela-FF5722?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Enfoque-Código_Limpio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Estilo-Retro_%26_Steampunk-8B4513?style=flat-square&logo=artstation&logoColor=white" />
+  </p>
+</div>
 
+---
 
-> "Construyendo el futuro con la precisión de un artesano y la estética del Pixel Art."
+## 🧑‍💻 Sobre Mí
 
-Soy un desarrollador apasionado por la intersección entre lo analógico y lo digital. Mi enfoque combina la lógica de programación con la creatividad del arte retro. 
+Desarrollador apasionado por la intersección entre lo analógico y lo digital. Combino la lógica de programación con la creatividad del arte retro. Colecciono tecnologías y nostalgia; me encanta la estética Steampunk y el Pixel Art. 
 
-Mi Hobby, es coleccionar tecnologías y nostalgia retro, me encanta la estetica,SteamPunk asi como el Pixel Art, recuerda " fallar no es el final, si puedes imaginarlo, puedes construirlo".
+> *"Fallar no es el final, si puedes imaginarlo, puedes construirlo."*
 
-## Mi Stack Tecnológico
-Aquí están las herramientas con las que forjo mis proyectos.
+---
 
-## |Frameworck|
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+## 🛠️ Stack Tecnológico
 
-## |IDE/editor|
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
-## |Lenguajes|
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+| **Categoría** | **Herramientas** |
+| :--- | :--- |
+| **Lenguajes** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Web & DB** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| **Editores** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) |
 
-## |Proyectos Actuales|
+</div>
 
-[NEON-PROJEC]: Foro web.
+---
 
-[PITBULL-INC]: App de Gestión empresarial.
+## 📊 Mis Estadísticas en GitHub
 
+<div align="center">
+  <a href="https://github.com/StaticSaves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StaticSaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" alt="Estadísticas de StaticSaves" />
+  </a>
+  <a href="https://github.com/StaticSaves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaticSaves&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722" alt="Lenguajes más usados" />
+  </a>
+</div>
 
-## ¿Quieres hablar sobre código, música clásica, rock o un buen proyecto?
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaticSaves&theme=radical&hide_border=true&background=0D1117&ring=FF5722&fire=FF5722" alt="Racha de contribuciones" />
+</div>
 
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+---
 
-> “Programar es como la carpintería: requiere paciencia, las herramientas correctas y el respeto por el material y el código.”
+## 🚀 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/StaticSaves/NEON-PROJEC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StaticSaves&repo=NEON-PROJEC&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" />
+  </a>
+  <a href="https://github.com/StaticSaves/Pitbull-Aplicaci-n-Gesti-n-Empresarial">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StaticSaves&repo=Pitbull-Aplicaci-n-Gesti-n-Empresarial&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" />
+  </a>
+</div>
+
+> **NEON-PROJEC**: Foro web comunitario.  
+> **PITBULL-INC**: Solución de gestión empresarial.
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+  <a href="mailto:staticsaves@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/TU_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>“Programar es como la carpintería: requiere paciencia, las herramientas correctas y el respeto por el material y el código.”</sub>
+</div>
