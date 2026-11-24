@@ -39,21 +39,7 @@ Desarrollador apasionado por la intersección entre lo analógico y lo digital. 
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/StaticSaves/NEON-PROJEC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StaticSaves&repo=NEON-PROJEC&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" />
-  </a>
-  <a href="https://github.com/StaticSaves/Pitbull-Aplicaci-n-Gesti-n-Empresarial">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StaticSaves&repo=Pitbull-Aplicaci-n-Gesti-n-Empresarial&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722" />
-  </a>
-</div>
 
-<br />
-
-> **NEON-PROJEC**: Foro web comunitario enfocado en la interacción fluida y el diseño retro-moderno.  
-> **PITBULL-INC**: Solución integral para la gestión empresarial y optimización de procesos.
-
----
 
 ## 📫 Conectemos
 
